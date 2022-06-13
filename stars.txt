@@ -1,0 +1,5 @@
+AKLS-5,Andromeda,2,4,3
+GDKK44-4,Canis Major,3,7,7
+RR-E789,Centaurus,2,4,6
+WW-S89,Andromeda,5,4,2
+MDJD-55,Gemini,5,5,5

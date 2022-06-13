@@ -1,0 +1,7 @@
+Popescu,Andromeda
+Ionescu,Aries
+Georgica,Canis Major
+Mihaita,Centaurus
+Gabriela,Gemini
+Luca,Andromeda
+John,Centaurus
